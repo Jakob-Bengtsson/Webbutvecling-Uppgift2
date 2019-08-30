@@ -1,0 +1,30 @@
+.p1{
+color:blue;
+border: 2px solid black;
+}
+h1{
+font-family : Arial
+font-size : 22px
+}
+body{
+background-color :Grey;
+}
+.p2{
+text-align : center;
+color: SlateBlue;
+background-color :LightBlue;
+}
+.p3{
+text-align : right;
+color: SlateBlue;
+}
+
+h2{
+text-align : center;
+color:LightSteelBlue;
+font-size : 22px
+}
+
+.a1{
+text-decoration: none;
+}
